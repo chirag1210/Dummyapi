@@ -1,0 +1,23 @@
+
+{
+ "admin": {
+ "role": "admin",
+ "permissions": {},
+ "backendPermissions": {
+ "IHG/*/*/*": [
+ "SEARCH_LOYALTY_NUMBER",
+ "LOGIN_LEVEL"
+ ]
+ },
+ "featureSettings": {
+ "searchLoyaltyEnabled": "true",
+ "loyaltyModuleActive": "true"
+ }
+ },
+ "user": {
+ "role": "user",
+ "permissions": {},
+ "backendPermissions": {},
+ "featureSettings": {}
+ }
+}
