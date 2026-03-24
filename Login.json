@@ -9,7 +9,7 @@
  ]
  },
  "featureSettings": {
- "searchLoyaltyEnabled": "false",
+ "searchLoyaltyEnabled": "true",
  "loyaltyModuleActive": "true"
  }
  },
