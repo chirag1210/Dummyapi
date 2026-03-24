@@ -10,7 +10,7 @@
  },
  "featureSettings": {
  "searchLoyaltyEnabled": "false",
- "loyaltyModuleActive": "true"
+ "loyaltyModuleActive": "false"
  }
  },
  "user": {
